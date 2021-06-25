@@ -1,0 +1,12 @@
+https://sut.trabajo.gob.ec/mrl/seguridadsalud/supervisor/capacitacion/cursoDisponibleFmr.xhtml
+codigo
+787
+Maximo----> Hasta Mañana
+
+
+para sacar un descuento se debe hacer lo siguinte
+
+valor * (100- el porcentaje de descuento)
+por ejemplo:
+	250 * (100-35%)
+	250 * 65 --->(250*0.65) > la operacion final

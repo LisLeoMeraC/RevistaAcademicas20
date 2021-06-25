@@ -1,0 +1,53 @@
+HTML
+*/ Siempre al inicio de un html poner la siguiente linea de codigo: <!DOCTYPE html>
+*/ Todo lo que va dentro del Head es lo que no se va a visualizar en la pagina
+*/ Todo lo que va en el body es lo que se va a visualizar en la pagina
+
+Etiquetas de HTML
+**h1 hasta el h6-->Son titulos en la pagina web
+**br --> para hacer saltos de linea
+**p-->para parrafo
+**b-->para letras en negrita
+**i-->cursiva
+**strike-->tachada
+**small-->pequeña
+
+Etiqueta de enlace
+** <a href="va el enlace https" Target="_BLANK" >Clic aqui</a> --> para dirigirme a otra ventana e incluso podemos tener otro html y podernos dirigir a ese.
+       * dentro de la carpeta:    	  	nombrearchivo.html
+       * dentro de otra carpeta:
+	nombrecarpeta/nombrearchivo.html  
+       * para volver al archivo de la carpeta anterior:
+	../nombrearchivo.html  
+
+LISTAS EN HTML
+sintaxis
+	<ul>
+		<li>lo que sea</li>
+
+	</ul>
+
+
+MULTIMEDIAS EN HTML
+**PARA IMAGEN
+  <img src=ruta de la imagen>
+**PARA VIDEO
+  <video src=nombre del video.mp4> </video> 
+  O sino jalamos el video dentro del codigo html
+  OJO::el video debe estar dentro de una carpeta del proyecto
+**PARA AUDIO
+al igual que video, lo arrastramos y ya
+
+ETIQUETA DIV
+Sirve para separar contenido o agrupar
+<div>va lo que quiera jajajaj</div>
+
+
+FORMULARIOS HTML
+<form>
+<input type="" name="">
+
+</form>
+input>>es la entrada de datos por parte del usuario
+**el type especificamos que tipo de control o de entrada deseamos en ese apartado
+
